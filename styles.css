@@ -113,11 +113,23 @@ ul {
 }
 
 .logo-text {
-  font-weight: 800;
-  font-size: 1.15rem;
+  font-family: "Black Ops One", system-ui, sans-serif;
+  font-weight: 400;
+  font-size: 1.05rem;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  line-height: 1.1;
+  white-space: nowrap;
 }
+
+@media (min-width: 700px) {
+  .logo-text {
+    font-size: 1.35rem;
+  }
+}
+  
+  
+
 
 .logo-text span {
   color: var(--red);
