@@ -120,6 +120,7 @@ ul {
   text-transform: uppercase;
   line-height: 1.1;
   white-space: nowrap;
+   color: var(--red);
 }
 
 @media (min-width: 700px) {
