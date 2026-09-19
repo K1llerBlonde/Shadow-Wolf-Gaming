@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clips & Screenshots | Shadow Wolf Gaming</title>
+  <link rel="icon" href="logo-circle.png" type="image/png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a href="index.html" class="logo-link">
+        <img src="logo-circle.png" alt="Shadow Wolf Gaming" />
+        <span class="logo-text">Shadow <span>Wolf</span></span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle menu">☰</button>
+      <nav class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a href="roster.html">Roster</a>
+        <a href="events.html">Events</a>
+        <a href="gallery.html" class="active">Clips</a>
+        <a href="rules.html">Rules</a>
+        <a href="about.html">About</a>
+        <a href="join.html" class="btn btn-primary">Join the Pack</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>Clips & <span>Screenshots</span></h1>
+      <p>Highlight reels, sick plays, and moments from the pack.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="gallery-grid">
+        <!-- Placeholder items – replace with real clips/screenshots later -->
+        <div class="gallery-item">
+          <div style="width:100%;height:100%;background:#1a1a1a;display:flex;align-items:center;justify-content:center;color:#666;font-size:1.1rem;">
+            Clip / Screenshot Placeholder
+          </div>
+          <div class="overlay">
+            <span>Coming Soon</span>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <div style="width:100%;height:100%;background:#1a1a1a;display:flex;align-items:center;justify-content:center;color:#666;font-size:1.1rem;">
+            Clip / Screenshot Placeholder
+          </div>
+          <div class="overlay">
+            <span>Coming Soon</span>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <div style="width:100%;height:100%;background:#1a1a1a;display:flex;align-items:center;justify-content:center;color:#666;font-size:1.1rem;">
+            Clip / Screenshot Placeholder
+          </div>
+          <div class="overlay">
+            <span>Coming Soon</span>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <div style="width:100%;height:100%;background:#1a1a1a;display:flex;align-items:center;justify-content:center;color:#666;font-size:1.1rem;">
+            Clip / Screenshot Placeholder
+          </div>
+          <div class="overlay">
+            <span>Coming Soon</span>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <div style="width:100%;height:100%;background:#1a1a1a;display:flex;align-items:center;justify-content:center;color:#666;font-size:1.1rem;">
+            Clip / Screenshot Placeholder
+          </div>
+          <div class="overlay">
+            <span>Coming Soon</span>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <div style="width:100%;height:100%;background:#1a1a1a;display:flex;align-items:center;justify-content:center;color:#666;font-size:1.1rem;">
+            Clip / Screenshot Placeholder
+          </div>
+          <div class="overlay">
+            <span>Coming Soon</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-4 text-center" style="background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 2rem;">
+        <h3 style="margin-bottom: 0.75rem;">Want your clip featured?</h3>
+        <p style="color: var(--gray); margin-bottom: 1.25rem;">
+          Drop your best plays in the Discord clips channel. Leadership will select highlights for the site.
+        </p>
+        <a href="https://discord.gg/vBjcun5h" target="_blank" rel="noopener" class="btn btn-primary">Submit via Discord</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="logo-circle.png" alt="Shadow Wolf Gaming" style="height: 64px;" />
+          <p>Shadow Wolf Gaming — Call of Duty community for competitive and casual players.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Navigate</h4>
+          <a href="roster.html">Roster</a>
+          <a href="events.html">Events</a>
+          <a href="gallery.html">Clips & Screenshots</a>
+          <a href="rules.html">Rules</a>
+          <a href="about.html">About</a>
+          <a href="join.html">Join</a>
+        </div>
+        <div class="footer-col">
+          <h4>Connect</h4>
+          <a href="https://discord.gg/vBjcun5h" target="_blank" rel="noopener">Discord</a>
+          <a href="https://www.tiktok.com/@shadow_wolf_gaming_?_r=1&_t=ZS-99rucWfN9da" target="_blank" rel="noopener">TikTok</a>
+          <a href="#">Merch Store (Coming Soon)</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 Shadow Wolf Gaming. All rights reserved.</span>
+        <div class="social-links">
+          <a href="https://discord.gg/vBjcun5h" target="_blank" rel="noopener" title="Discord">D</a>
+          <a href="https://www.tiktok.com/@shadow_wolf_gaming_?_r=1&_t=ZS-99rucWfN9da" target="_blank" rel="noopener" title="TikTok">T</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

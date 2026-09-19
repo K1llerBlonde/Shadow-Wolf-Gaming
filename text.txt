@@ -1,0 +1,1 @@
+background: url('logo-circle.png') center/contain no-repeat;

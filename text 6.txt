@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rules | Shadow Wolf Gaming</title>
+  <link rel="icon" href="logo-circle.png" type="image/png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a href="index.html" class="logo-link">
+        <img src="logo-circle.png" alt="Shadow Wolf Gaming" />
+        <span class="logo-text">Shadow <span>Wolf</span></span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle menu">☰</button>
+      <nav class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a href="roster.html">Roster</a>
+        <a href="events.html">Events</a>
+        <a href="gallery.html">Clips</a>
+        <a href="rules.html" class="active">Rules</a>
+        <a href="about.html">About</a>
+        <a href="join.html" class="btn btn-primary">Join the Pack</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-hero">
+    <div class="container">
+      <h1>Code of <span>Conduct</span></h1>
+      <p>Respect the pack. These rules keep the community strong.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="rules-list">
+        <div class="rule-item">
+          <div class="rule-number">1</div>
+          <div>
+            <h3>Respect Everyone</h3>
+            <p>No harassment, hate speech, toxicity, or personal attacks. Treat every member the way you want to be treated.</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <div class="rule-number">2</div>
+          <div>
+            <h3>No Cheating or Exploits</h3>
+            <p>Cheats, hacks, macros that give unfair advantage, or any form of boosting are strictly forbidden. First offense can result in permanent removal.</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <div class="rule-number">3</div>
+          <div>
+            <h3>Keep It Clean in Voice & Chat</h3>
+            <p>Excessive toxicity, constant arguing, or disruptive behavior in Discord or in-game will not be tolerated.</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <div class="rule-number">4</div>
+          <div>
+            <h3>Follow Discord & Platform Rules</h3>
+            <p>Obey Discord Terms of Service and the rules of any game we play. Breaking platform rules can get the whole community in trouble.</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <div class="rule-number">5</div>
+          <div>
+            <h3>Represent the Pack Well</h3>
+            <p>When wearing the Shadow Wolf name or tag, act with integrity. You represent more than yourself.</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <div class="rule-number">6</div>
+          <div>
+            <h3>Listen to Leadership</h3>
+            <p>Officers and staff are here to keep things running. Follow reasonable requests and use the proper channels for issues.</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <div class="rule-number">7</div>
+          <div>
+            <h3>Have Fun & Improve</h3>
+            <p>We’re here to compete, improve, and enjoy the game together. Bring good energy.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-4 text-center">
+        <p style="color: var(--gray); margin-bottom: 1rem;">Questions about the rules? Ask in Discord.</p>
+        <a href="https://discord.gg/vBjcun5h" target="_blank" rel="noopener" class="btn btn-primary">Go to Discord</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="logo-circle.png" alt="Shadow Wolf Gaming" style="height: 64px;" />
+          <p>Shadow Wolf Gaming — Call of Duty community for competitive and casual players.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Navigate</h4>
+          <a href="roster.html">Roster</a>
+          <a href="events.html">Events</a>
+          <a href="gallery.html">Clips & Screenshots</a>
+          <a href="rules.html">Rules</a>
+          <a href="about.html">About</a>
+          <a href="join.html">Join</a>
+        </div>
+        <div class="footer-col">
+          <h4>Connect</h4>
+          <a href="https://discord.gg/vBjcun5h" target="_blank" rel="noopener">Discord</a>
+          <a href="https://www.tiktok.com/@shadow_wolf_gaming_?_r=1&_t=ZS-99rucWfN9da" target="_blank" rel="noopener">TikTok</a>
+          <a href="#">Merch Store (Coming Soon)</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 Shadow Wolf Gaming. All rights reserved.</span>
+        <div class="social-links">
+          <a href="https://discord.gg/vBjcun5h" target="_blank" rel="noopener" title="Discord">D</a>
+          <a href="https://www.tiktok.com/@shadow_wolf_gaming_?_r=1&_t=ZS-99rucWfN9da" target="_blank" rel="noopener" title="TikTok">T</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
